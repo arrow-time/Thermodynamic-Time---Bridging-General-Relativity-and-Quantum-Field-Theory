@@ -29,3 +29,5 @@ Thermodynamic time is embedded into this two-layer fiber base space model that u
 Additionally, the model establishes a mirror relationship between metric variation and quantum field oscillation frequency (consistent with phenomena such as gravitational redshift and general relativistic time dilation), thereby not only providing a concrete mechanism for gravitational time dilation in General Relativity, but also making the connection between General Relativity and Quantum Field Theory more explicit.
 
 In this way, we obtain a preliminary framework of a quantized elastic spacetime model that unifies Quantum Field Theory and General Relativity, with thermodynamic time embedded within it.
+
+The Preprint: Zou, Z. K. (2025). Multiplicative Entropy Encodes Time-Causality; Gauge Mediates Mass-Gravity; Frequency Mirrors Metric-Geometry. Zenodo. https://doi.org/10.5281/zenodo.15278220
